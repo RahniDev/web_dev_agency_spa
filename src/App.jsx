@@ -1,7 +1,7 @@
-import Hero from './components/Hero'
-import Services from './components/Services'
-import Work from './components/Work'
-import Contact from './components/Contact'
+import Hero from './components/Hero/Hero'
+import Services from './components/Services/Services'
+import Work from './components/Work/Work'
+import Contact from './components/Contact/Contact'
 
 const App = () => {
   return (
